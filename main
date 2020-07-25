@@ -1,2 +1,0 @@
-a = input("Nhap vao ten cua ban:")
-print("Chao mung ban den voi github: " +a)
