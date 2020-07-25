@@ -3,4 +3,4 @@ num1=int(input("Nhap vao so thu nhat: "))
 num2=int(input("Nhap vao so thu hai: "))
 total = num1+num2
 print(total)
-print("Tong hai so la: " +total)
+print("Tong hai so la: %s" %(total))
